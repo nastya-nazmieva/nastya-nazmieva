@@ -1,16 +1,17 @@
-## Hi there 👋
+## Привет👋 Меня зовут Настя
 
-<!--
-**nastya-nazmieva/nastya-nazmieva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">👩‍💻  Обо мне</h3>
 
-Here are some ideas to get you started:
+<p align="left">Аналитик данных с опытом работы более 3+ года. Специализируюсь на сборе очистке и визуализации данных. Построила с нуля 10+ дашбордов. Оптимизирую и упрощаю процессы в Тендерном отделе. Умею находить аномалии и формулировать бизнес-выводы в презентации.<br><br>📚 Завершила курсы: <br>-"SQL для всех" на Stepik<br>-"Основы анализа данных" DataStudy</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Навыки и инструменты:
+
+| Категория                    | Инструменты и технологии                                                                 |
+|-----------------------------|-------------------------------------------------------------------------------------------|
+| 💻 Инструменты анализа данных | `MS Excel`,  `SQL`,`Python`                                                                   |    
+| 📊 BI и визуализация         | `FineBI`,`Tableau`, `Yandex DataLens`                                                 |
+| 🧩 Библиотеки Python    | `Pandas`, `NumPy`, `Matplotlib`, `Seaborn` |                                                                          |
+|📎 Вспомогательные инструменты | `JIRA`, `Confluence` , `SharePoint`   
+
+
+
